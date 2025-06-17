@@ -4,7 +4,6 @@
 Where ideas meet execution.
 
 [🔗 Visit Live Website →](https://Inayathussain786305.github.io/startupscale/)  
-*(Replace `yourusername` with your GitHub username)*
 
 ---
 
