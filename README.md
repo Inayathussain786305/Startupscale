@@ -1,100 +1,66 @@
-# Startupscale
+# 🚀 Startup Scale
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Startup Scale</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background-color: #2b2bff;
-      color: #fff;
-      padding: 2rem;
-      text-align: center;
-    }
-    nav {
-      background: #222;
-      padding: 0.5rem;
-      text-align: center;
-    }
-    nav a {
-      color: #fff;
-      margin: 0 1rem;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    section {
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-      background: #fff;
-      margin-top: 1rem;
-      border-radius: 10px;
-    }
-    footer {
-      text-align: center;
-      padding: 1rem;
-      background: #222;
-      color: #ccc;
-      margin-top: 2rem;
-    }
-    h2 {
-      color: #2b2bff;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Startup Scale</h1>
-    <p>Where Ideas Meet Impact</p>
-  </header>
+**Empowering Pakistan’s Future Startups.**  
+Where ideas meet execution.
 
-  <nav>
-    <a href="#about">About</a>
-    <a href="#features">Features</a>
-    <a href="#contribute">Contribute</a>
-    <a href="#contact">Contact</a>
-  </nav>
+[🔗 Visit Live Website →](https://Inayathussain786305.github.io/startupscale/)  
+*(Replace `yourusername` with your GitHub username)*
 
-  <section id="about">
-    <h2>About Us</h2>
-    <p>Startup Scale is building Pakistan’s largest platform to connect founders, co-founders, investors, and passionate teams to scale startups to the next level. Our mission is to empower Pakistani entrepreneurs with the resources, tools, and community they need to succeed.</p>
-  </section>
+---
 
-  <section id="features">
-    <h2>Features</h2>
-    <ul>
-      <li>Startup Directory: Discover and contribute startups.</li>
-      <li>Founder Matching: Connect with visionary co-founders.</li>
-      <li>Investor Connect: Link with local and international investors.</li>
-      <li>Talent Marketplace: Hire or get hired in the startup ecosystem.</li>
-      <li>Resources: Master SEO, marketing, and business growth strategies.</li>
-      <li>Startup Tracker: Track valuations, funding rounds, and growth.</li>
-    </ul>
-  </section>
+## 🌟 About Startup Scale
 
-  <section id="contribute">
-    <h2>Contribute</h2>
-    <p>Want to add your startup? Fill out this form to get featured!</p>
-    <p><a href="https://forms.gle/your-form-link" target="_blank">Submit Your Startup →</a></p>
-  </section>
+**Startup Scale** is Pakistan’s emerging platform dedicated to connecting **founders, cofounders, investors, and talent** in one place — making it easier to launch, build, and scale world-changing startups.
 
-  <section id="contact">
-    <h2>Contact Us</h2>
-    <p>Email: startupscale.pk@gmail.com</p>
-    <p>Location: Pakistan (Online Community)</p>
-  </section>
+We believe Pakistan’s future belongs to its creators — and **Startup Scale** is the bridge between **ideas and impact**.
 
-  <footer>
-    <p>© 2025 Startup Scale — Empowering Pakistan’s Future</p>
-  </footer>
-</body>
-</html>
+---
+
+## ⚙️ Features
+
+- 📌 **Startup Directory:** Discover and contribute to a living list of Pakistani startups.
+- 🤝 **Founder Matching:** Connect with visionary cofounders who share your mission.
+- 💰 **Investor Connect:** Meet investors passionate about Pakistan’s startup ecosystem.
+- 💼 **Talent Marketplace:** Find the right people to build your dream project.
+- 🚀 **Growth Resources:** Learn SEO, marketing, and startup growth strategies.
+- 📊 **Startup Tracker:** Track valuations, funding rounds, and progress of startups.
+
+---
+
+## 📩 Contribute
+
+Want to add your startup to the directory?  
+**→ [Submit Your Startup →](https://forms.gle/your-form-link)** *(Add your Google Form link)*
+
+Have ideas for improving **Startup Scale**? Open an **Issue** or submit a **Pull Request**.
+
+---
+
+## 📬 Contact
+
+- **Email:** startupscale.pk@gmail.com
+- **Location:** Pakistan (Online Community)
+
+---
+
+## 🖥️ Tech Stack
+
+- **Frontend:** HTML, CSS (Basic)
+- **Hosting:** GitHub Pages
+
+---
+
+## 🛡 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Founder
+
+**Inayat Hussain (Inayat Raj Chohan)**  
+→ [Twitter / X](https://twitter.com/yourprofile) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+
+---
+
+**“The future belongs to those who build it.”**
